@@ -1,1 +1,1 @@
-# An-lisis-y-dise-o-de-algoritmos
+# Primer laboratorio
